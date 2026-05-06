@@ -12,9 +12,9 @@ everything I'm learning and building along the way.
 ## Progress Log
 
 ### May 2025
-- Completed Bandit Levels 0-1
+- Completed Bandit Levels 0-13
 - Set up SSH on MacBook
-- Learned: cat, ls, ssh
+- Learned: cat, ls, ssh, cd, du, find, grep, sort, uniq, strings, base64, gzip, tar, bzip2, xxd
 
 ## Tools I'm Building
 - Coming soon: hex reader, file signature detector
