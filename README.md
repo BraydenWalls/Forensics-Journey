@@ -1,7 +1,7 @@
 # Forensics Journey
 
 I'm a junior in high school working toward a career 
-as an FBI Digital Forensics Examiner. This repo documents 
+as a Digital Forensics Examiner. This repo documents 
 everything I'm learning and building along the way.
 
 ## Current Focus
