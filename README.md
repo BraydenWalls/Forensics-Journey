@@ -15,7 +15,7 @@ everything I'm learning and building along the way.
 - Completed Bandit Levels 0-13
 - Set up SSH on MacBook
 - Learned: cat, ls, ssh, cd, du, find, grep, sort, uniq, strings, base64, gzip, tar, bzip2, xxd
-
+- Built a file identifier tool
 ## Tools I'm Building
 - Coming soon: hex reader, file signature detector
 
