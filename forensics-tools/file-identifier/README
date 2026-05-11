@@ -1,0 +1,22 @@
+# File Identifier — Forensics Tool
+
+## What It Does
+Scans a directory and identifies every file type by its extension.
+Flags suspicious files including executables, installers, and archives.
+Prints a full investigation summary.
+
+## Forensic Use Case
+Investigators use file type identification to find hidden or mislabeled
+files on seized devices. This tool automates that process.
+
+## How to Run
+python3 file_id.py
+
+## Example Output
+Filename: virus.exe
+Extension: .exe
+File type: EXE
+WARNING: Executable file detected — flag for investigation
+
+Total files analyzed: 101
+Suspicious files detected: 17
